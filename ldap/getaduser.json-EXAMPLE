@@ -1,0 +1,11 @@
+{
+  "adserver": "adserver.example.com",
+  "adserverport": 636,
+  "use_ssl": "True",
+  "bind_user": "CN=Mike Smith,OU=Users,OU=Sweden,OU=_CORP,DC=example,DC=com",
+  "bind_password": "default - will be prompted",
+  "search_base": "OU=_CORP,dc=example,dc=com",
+  "verbose": 0,
+  "want_json": 0
+}
+
